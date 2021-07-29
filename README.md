@@ -15,20 +15,20 @@ This Repository was made for newcomers in programming who are looking for an onl
 [Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) \
 [Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K) \
 [The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) \
-[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)
-[Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)
-[Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O)
-[First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P)
-[Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q)
-[Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R)
-[Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S)
-[Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T)
-[Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U)
-[ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)
-[Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)
-[Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)
-[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
-[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
+[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M) \
+[Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) \
+[Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) \
+[First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) \
+[Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q) \
+[Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) \
+[Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) \
+[Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) \
+[Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) \
+[ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V) \
+[Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) \
+[Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) \
+[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) \
+[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) \
 
 ## Loops
 ## Arrays
