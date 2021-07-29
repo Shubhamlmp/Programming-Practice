@@ -28,7 +28,7 @@ This Repository was made for newcomers in programming who are looking for an onl
 [Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) \
 [Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) \
 [The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) \
-[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) \
+[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 ## Loops
 ## Arrays
