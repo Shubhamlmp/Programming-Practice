@@ -36,28 +36,28 @@ This Repository was made for newcomers in programming who are looking for an onl
 [Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) \
 [Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) \
 [Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) \
-[Max]() \
-[Multiplication table]() \
-[Factorial]() \
-[One Prime]() \
-[palindrome]() \
-[Primes from 1 to n]() \
-[Divisors]() \
-[GCD]() \
-[Lucky Numbers]() \
-[Numbers Histogram]() \
-[Pyramid]() \
-[Shape1]() \
-[Digits]() \
-[Sequence of Numbers and Sum]() \
-[Sum of Consecutive Odd Numbers]() \
-[Shape2]() \
-[Some Sums]() \
-[PUM]() \
-[Shape3]() \
-[Convert To Decimal 2]() \
-[Easy Fibonacci]() \
-[Three Numbers]() \
+[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) \
+[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) \
+[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) \
+[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) \
+[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) \
+[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) \
+[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) \
+[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) \
+[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) \
+[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) \
+[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) \
+[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) \
+[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) \
+[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) \
+[Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) \
+[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) \
+[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) \
+[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) \
+[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) \
+[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) \
+[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) \
+[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) \
 
 ## Arrays
 ## Strings
