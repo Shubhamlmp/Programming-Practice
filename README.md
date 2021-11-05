@@ -31,6 +31,34 @@ This Repository was made for newcomers in programming who are looking for an onl
 [ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 ## Loops
+[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) \
+[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) \
+[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) \
+[Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) \
+[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) \
+[Max]() \
+[Multiplication table]() \
+[Factorial]() \
+[One Prime]() \
+[palindrome]() \
+[Primes from 1 to n]() \
+[Divisors]() \
+[GCD]() \
+[Lucky Numbers]() \
+[Numbers Histogram]() \
+[Pyramid]() \
+[Shape1]() \
+[Digits]() \
+[Sequence of Numbers and Sum]() \
+[Sum of Consecutive Odd Numbers]() \
+[Shape2]() \
+[Some Sums]() \
+[PUM]() \
+[Shape3]() \
+[Convert To Decimal 2]() \
+[Easy Fibonacci]() \
+[Three Numbers]() \
+
 ## Arrays
 ## Strings
 ## Maths
