@@ -58,9 +58,36 @@ In the "Repository" you will find the topics and its problems.
 [Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) \
 [Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) \
 [Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) \
-[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) \
+[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
 
 ## Arrays
+[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) \
+[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) \
+[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) \
+[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) \
+[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E) \
+[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) \
+[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) \
+[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) \
+[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) \
+[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) \
+[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) \
+[Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) \
+[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) \
+[Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) \
+[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) \
+[Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) \
+[Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) \
+[Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R) \
+[Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S) \
+[Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T) \
+[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) \
+[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) \
+[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) \
+[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) \
+[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) \
+[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+
 ## Strings
 ## Maths
 ## Functions
