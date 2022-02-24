@@ -2,6 +2,7 @@
 
 This Repository was made for newcomers in programming who are looking for an online training to improve their knowledge in basic programming skills.
 In the "Repository" you will find the topics and its problems.
+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
 
 ## Data Type & Conditions
 [Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) \
