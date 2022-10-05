@@ -14,7 +14,7 @@
 
 **2) Star this repository⭐**
 
-**3) Add code according to your need with proper extension eg `bubble_sort.cpp` `linear_search.py`**
+**3) Add code according to your need with proper extension eg `bubbleSort.cpp` `linearSearch.py`**
 
 # Some Code Guidelines:
 1. Variable name should be meaningful.
@@ -45,9 +45,9 @@ In the "Repository" you will find the topics and its problems.
 
 
 ## Data Type & Conditions
-| # | Title |
-|---| ----- |
-|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)
+| # | Title | Solution |
+|---| ----- | -------- |
+|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/sayHelloWithC++.cpp)
 |2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)
 |3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
 |4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)
