@@ -117,8 +117,23 @@ In the "Repository" you will find the topics and its problems.
 [Encrypt&Decrypt Message](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/W) \
 [Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/X) \
 [Min Cost String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Y) \
-[Clean Code](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Z) \
+[Clean Code](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Z)
 ## Maths
+[Add](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A) \
+[PRINT](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B) \
+[Different functions](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C) \
+[prime function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D) \
+[Swap](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E) \
+[Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F) \
+[Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G) \
+[N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H) \
+[Swapping with matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I) \
+[Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J) \
+[Shift right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K) \
+[New Array](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L) \
+[Distinct numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/M) \
+[Shift zeros](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/N) \
+[Five in One](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O)
 ## Functions
 ## Basic Recursion
 ## General Easy
