@@ -1,3 +1,43 @@
+# Hacktoberfest-2021
+<img src='https://github.com/'/>
+
+## Hey 👋 everyone , *hacktoberfest* is back with biggest beginners friendly opensource event. Event will start from 1st of October and will remain upto 31st October 2022.
+
+
+### What you need to do in this event?
+**You need to generate 4 valid pull request and want to contribute in opensource**
+
+### let's discuss how you can contribute in *hacktoberfest 2022* 🙌
+
+### Rules :
+**1) Fork this repository first**
+
+**2) Star this repository⭐**
+
+**3) Add code according to your need with proper extension eg `bubble_sort.cpp` `linear_search.py`**
+
+# Some Code Guidelines:
+1. Variable name should be meaningful.
+2. Use comments in your code for you logics.
+3. Your Code must be pretty formated.
+
+### After a valid pull request your code will be carefully reviewed and if it matches the rule then it will be accepted otherwise you need to generate a new file.
+
+### End note.
+
+**It's a great privilege of **Contributors** to contribute at *Hacktoberfest 2022*. All valid pull request will be accepted, this process may take sometime but don't worry.**
+
+**Join our community for more events**
+
+[Telegram](https://t.me/+-sRcn7ep1i8zOGY1)
+
+
+### Keep smiling 😄
+### Happy coding 🥳
+
+
+
+
 # Programming-Practice
 
 This Repository was made for newcomers in programming who are looking for an online training to improve their knowledge in basic programming skills.
