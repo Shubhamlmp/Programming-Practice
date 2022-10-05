@@ -75,6 +75,8 @@ In the "Repository" you will find the topics and its problems.
 |26|[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 ## Loops
+| # | Title | Solution |
+|---| ----- | -------- |
 |27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) \
 |28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) \
 |29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) \
@@ -104,6 +106,8 @@ In the "Repository" you will find the topics and its problems.
 |53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
 
 ## Arrays
+| # | Title | Solution |
+|---| ----- | -------- |
 [Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) \
 [Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) \
 [Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) \
@@ -132,6 +136,8 @@ In the "Repository" you will find the topics and its problems.
 [Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
 
 ## Strings
+| # | Title | Solution |
+|---| ----- | -------- |
 [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A) \
 [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B) \
 [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C) \
@@ -160,6 +166,8 @@ In the "Repository" you will find the topics and its problems.
 [Clean Code](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Z)
 
 ## Maths
+| # | Title | Solution |
+|---| ----- | -------- |
 [Add](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A) \
 [PRINT](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B) \
 [Different functions](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C) \
@@ -177,6 +185,8 @@ In the "Repository" you will find the topics and its problems.
 [Five in One](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O)
 
 ## Functions
+| # | Title | Solution |
+|---| ----- | -------- |
 [Power Of Two](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A) \
 [Prime checking](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B) \
 [Sum of Range](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C) \
@@ -205,6 +215,8 @@ In the "Repository" you will find the topics and its problems.
 [Geometry Test](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/Z)
 
 ## Basic Recursion
+| # | Title | Solution |
+|---| ----- | -------- |
 [Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) \
 [Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) \
 [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) \
