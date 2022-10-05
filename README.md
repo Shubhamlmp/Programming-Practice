@@ -92,6 +92,32 @@ In the "Repository" you will find the topics and its problems.
 [Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
 
 ## Strings
+[Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A) \
+[Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B) \
+[Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C) \
+[Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D) \
+[Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E) \
+[Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F) \
+[Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G) \
+[Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H) \
+[Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I) \
+[Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J) \
+[I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K) \
+[String Functions](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/L) \
+[Subsequence String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/M) \
+[Max Subsequence](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/N) \
+[Sort String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/O) \
+[Count Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/P) \
+[Reverse Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Q) \
+[String Score](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/R) \
+[Max Split](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/S) \
+[URL](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/T) \
+[No name1](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/U) \
+[No name2](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/V) \
+[Encrypt&Decrypt Message](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/W) \
+[Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/X) \
+[Min Cost String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Y) \
+[Clean Code](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Z) \
 ## Maths
 ## Functions
 ## Basic Recursion
