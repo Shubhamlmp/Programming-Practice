@@ -87,7 +87,7 @@ In the "Repository" you will find the topics and its problems.
 |34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) 
 |35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) 
 |36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) 
-|37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) 
+|37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_primesfrom1ton.cpp)
 |38|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) 
 |39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) 
 |40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) 
