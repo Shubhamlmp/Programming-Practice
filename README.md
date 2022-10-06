@@ -84,7 +84,7 @@ In the "Repository" you will find the topics and its problems.
 |31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) 
 |32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) 
 |33|[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) 
-|34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) 
+|34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)  | [C++](./C++/34_Factorial.cpp)
 |35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) 
 |36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) 
 |37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) 
