@@ -108,8 +108,8 @@ In the "Repository" you will find the topics and its problems.
 ## Arrays
 | # | Title | Solution |
 |---| ----- | -------- |
-|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) 
-|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) 
+|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/Summation.cpp)
+|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/Searching.cpp)
 |56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) 
 |57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) 
 |58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E) 
