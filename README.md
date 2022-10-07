@@ -252,6 +252,7 @@ In the "Repository" you will find the topics and its problems.
 |170|[The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X) 
 |171|[Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y) 
 |171|[Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z) 
+|172|[Calculator using oops](https://codeforces.com/blog/entry/93959)| [C++](./C++/172_CalculatorUsingoops.cpp) 
 
 ## General Easy
 | # | Title | Solution |
@@ -283,6 +284,7 @@ Mahmoud and Longest Uncommon Subsequence (https://codeforces.com/group/MWSDmqGsZ
 Panoramix's Prediction (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X)
 Team Olympiad (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y)
 Decoding (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z)
+Calculator Using oops ()
 
 
 ## General Medium

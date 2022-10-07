@@ -3,7 +3,6 @@ using namespace std;
 
 // Forward declaration
 class Complex;
-
 class Calculator
 {
 public:
