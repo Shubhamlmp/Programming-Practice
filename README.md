@@ -88,8 +88,8 @@ In the "Repository" you will find the topics and its problems.
 |36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [C++](./C++/36_Palindrome.cpp)
 |37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
 |38|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
-|39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) 
-|40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) 
+|39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | 
+|40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) [C++](./C++/luckyNumber.cpp)
 |41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) 
 |42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
 |43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) 
