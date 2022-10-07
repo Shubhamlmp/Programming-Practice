@@ -224,6 +224,7 @@ In the "Repository" you will find the topics and its problems.
 ## General Easy
 
 
+
 | # | Title                                                                                          | Solution                     |
 |---| ---------------------------------------------------------------------------------------------- |------------------------------|
 |147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)             |
@@ -282,7 +283,6 @@ In the "Repository" you will find the topics and its problems.
 |195|[Panoramix's Prediction](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X)                  |
 |196|[Team Olympiad](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y)                           |
 |197|[Decoding](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z)                                |
-
 
 ## General Medium
 | # | Title                                                                                                        | Solution        |
