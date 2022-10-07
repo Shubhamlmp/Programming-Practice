@@ -45,102 +45,102 @@ In the "Repository" you will find the topics and its problems.
 
 ## Data Type & Conditions
                   |
-| # | Title | Solution |
-|---| ----- | -------- |
-|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/sayHelloWithC++.cpp)
-|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/BasicDataTypes.cpp)
-|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
-|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/Difference.cpp)
-|5|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [C++](./C++/5_AreaOfACircle.cpp)
-|6|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
-|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
-|8|[Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [C++](./C++/8_Two_Numbers.cpp)
-|9|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)[C++](./C++/Welcome_for_you.cpp)
-|10|[Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)[C++](./C++/Multiples.cpp)
-|11|[Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)[C++](./C++/Max_and_min.cpp)
-|12|[The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) | [C++](./C++/12_The_Brothers.cpp)
-|13|[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)[C++](./C++/Capital_or_Small_or_Digit.cpp)
-|14|[Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) | [C++](./C++/14_Char.cpp)
-|15|[Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) | [C++](./C++/15_Calculator.cpp)
-|16|[First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) | [C++](./C++/16_First_digit.cpp)
-|17|[Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q) | [C++](./C++/17_Coordinates_of_a_Point.cpp)
-|18|[Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) | [C++](./C++/18_Age_in_Days.cpp)
-|19|[Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [C++](./C++/19_Interval.cpp)
-|20|[Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [C++](./C++/20_Sort_Numbers.cpp)
-|21|[Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [C++](./C++/21_Float_or_Int.cpp)
-|22|[ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)
-|23|[Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)
-|24|[Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)
-|25|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
-|26|[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
+|#| Title                                                                                            | Solution                             |
+|-| ------------------------------------------------------------------------------------------------ | -------------------------------------+|
+|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)            | [C++](./C++/sayHelloWithC++.cpp)
+|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)              | [C++](./C++/BasicDataTypes.cpp)
+|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)             |
+|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)                    | [C++](./C++/Difference.cpp)
+|5|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E)              | [C++](./C++/5_AreaOfACircle.cpp)
+|6|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)              | 
+|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)         |
+|8|[Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H)                   | [C++](./C++/8_Two_Numbers.cpp)
+|9|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)|[C++](./C++/Welcome_for_you.cpp)
+|10|[Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)                    |[C++](./C++/Multiples.cpp)
+|11|[Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)                  |[C++](./C++/Max_and_min.cpp)
+|12|[The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L)                 |[C++](./C++/12_The_Brothers.cpp)
+|13|[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)    |[C++](./C++/Capital_or_Small_or_Digit.cpp)
+|14|[Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)                         |[C++](./C++/14_Char.cpp)
+|15|[Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O)                   |[C++](./C++/15_Calculator.cpp)
+|16|[First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P)                |[C++](./C++/16_First_digit.cpp)
+|17|[Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q)       |[C++](./C++/17_Coordinates_of_a_Point.cpp)
+|18|[Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R)                  |[C++](./C++/18_Age_in_Days.cpp)
+|19|[Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S)                     |[C++](./C++/19_Interval.cpp)
+|20|[Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T)                 |[C++](./C++/20_Sort_Numbers.cpp)
+|21|[Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U)                 |[C++](./C++/21_Float_or_Int.cpp)
+|22|[ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)                  |
+|23|[Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)      |
+|24|[Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)                |
+|25|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)            |
+|26|[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)                |
 
 ## Loops
-| # | Title | Solution |
-|---| ----- | -------- |
-|27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [C++](./C++/27_The_last_2_digits.cpp)
-|28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) |[C++](./C++/28_1_to_N.cpp)
-|29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) |[C++](./C++/29_Even_Numbers.cpp)
+| # | Title                                                                                              | Solution                      |
+|--| --------------------------------------------------------------------------------------------------- | ------------------------------|
+|27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A)                |[C++](./C++/27_The_last_2_digits.cpp)
+|28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B)                           |[C++](./C++/28_1_to_N.cpp)
+|29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C)                     |[C++](./C++/29_Even_Numbers.cpp)
 |30|[Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) |[C++](./C++/30_Even,Odd,Positive_and_Negative.cpp)
-|31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) |[C++](./C++/31_Fixed_Password.cpp)
-|32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) |[C++](./C++/32_max.cpp)
-|33|[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [C++](./C++/33_Multiplication_Table.cpp)
-|34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)  | [C++](./C++/34_Factorial.cpp)
-|35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [C++](./C++/35_One_Prime.cpp)
-|36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [C++](./C++/36_Palindrome.cpp)
-|37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
-|38|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
-|39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) 
-|40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) 
-|41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) 
-|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) 
-|43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) 
-|44|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) 
-|45|[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) 
-|46|[Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) 
-|47|[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) 
-|48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) 
-|49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) 
-|50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) 
-|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) 
-|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) 
-|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
-
+|31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)                   |[C++](./C++/31_Fixed_Password.cpp)
+|32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)                              |[C++](./C++/32_max.cpp)
+|33|[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F)             |[C++](./C++/33_Multiplication_Table.cpp)
+|34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)                        |[C++](./C++/34_Factorial.cpp)
+|35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H)                        |[C++](./C++/35_One_Prime.cpp)
+|36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I)                       |[C++](./C++/36_Palindrome.cpp)
+|37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J)               |[C++](./C++/37_Primes_from_1to_n.cpp)
+|38|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)                         |[C++](./C++/38_Divisors.cpp)
+|39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)                              |
+|40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)                    |
+|41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)                |
+|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O)                          |
+|43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P)                           |
+|44|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)                           |
+|45|[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R)      |
+|46|[Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)   |
+|47|[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T)                           |
+|48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U)                        |
+|49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V)                              |
+|50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W)                           |
+|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)             |
+|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)                   |
+|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)                    |
+ 
 ## Arrays
 
-| # | Title | Solution |
-|---| ----- | -------- |
-|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/Summation.cpp)
-|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/Searching.cpp)
-|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) 
-|57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) 
-|58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
-|59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
-|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) 
-|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [C++](./C++/Selection_sort.cpp)
-|62|[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) 
-|63|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) 
-|64|[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) 
-|65|[Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) 
-|66|[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) 
-|67|[Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) 
-|68|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) 
-|69|[Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) 
-|70|[Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) 
-|71|[Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R) 
-|72|[Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S) 
-|73|[Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T) 
-|74|[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) 
-|75|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) 
-|76|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) 
-|77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) 
-|78|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) 
-|79|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+| # | Title                                                                                      | Solution                      | 
+|--| --------------------------------------------------------------------------------------------| ------------------------------|
+|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A)                | [C++](./C++/Summation.cpp)
+|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B)                | [C++](./C++/Searching.cpp)
+|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)              |
+|57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D)       |
+|58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)            | [C++](./C++/LowestNumber.cpp)
+|59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)                | 
+|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)         |
+|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H)                  | [C++](./C++/Selection_sort.cpp)
+|62|[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)            |
+|63|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J)              |
+|64|[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)                     |
+|65|[Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)             |
+|66|[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)           |
+|67|[Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)               |
+|68|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O)                |
+|69|[Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)          |
+|70|[Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q)          |
+|71|[Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R)  | 
+|72|[Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S)         |
+|73|[Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T)                   |
+|74|[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)| 
+|75|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)          |
+|76|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)             |
+|77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)              |
+|78|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)          |
+|79|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)            |
 
 
 ## Strings
 
-| #   | Title                                                                                       | Solution |
-| --- | ------------------------------------------------------------------------------------------- | -------- |
+| #   | Title                                                                                       | Solution       |
+| --- | ------------------------------------------------------------------------------------------- | -------------- |
 | 80  | [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     |
 | 81  | [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       |
 | 82  | [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 |
@@ -170,8 +170,8 @@ In the "Repository" you will find the topics and its problems.
 
 ## Maths
 
-| #   | Title                                                                                    | Solution |
-| --- | ---------------------------------------------------------------------------------------- | -------- |
+| #   | Title                                                                                    | Solution         |
+| --- | ---------------------------------------------------------------------------------------- | ---------------- |
 | 106 | [Add](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A)                  |
 | 107 | [PRINT](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)                |
 | 108 | [Different functions](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)  |
@@ -190,8 +190,8 @@ In the "Repository" you will find the topics and its problems.
 
 ## Functions
 
-| #   | Title                                                                                           | Solution |
-| --- | ----------------------------------------------------------------------------------------------- | -------- |
+| #   | Title                                                                                           | Solution            |
+| --- | ----------------------------------------------------------------------------------------------- | --------------------|
 | 121 | [Power Of Two](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A)                |
 | 122 | [Prime checking](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B)              |
 | 123 | [Sum of Range](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C)                |
@@ -223,127 +223,124 @@ In the "Repository" you will find the topics and its problems.
 
 ## General Easy
 
-=======
-| # | Title | Solution |
-|---| ----- | -------- |
-|147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) 
-|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) | [C++](./C++/148_print1ton.cpp)
-|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) | [C++](./C++/149_printNto1.cpp) 
-|150|[Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) 
-|151|[Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E) 
-|152|[Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F) 
-|153|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G) 
-|154|[Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H) 
-|155|[Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I) 
-|156|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J) 
-|157|[Max Number](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K) 
-|158|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L) 
-|159|[Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M) 
-|160|[Sum of a Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N) 
-|161|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O) 
-|162|[Log2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P) 
-|163|[3n + 1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q)
-|164|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R) 
-|165|[Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S) 
-|166|[Combination](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/T) 
-|167|[Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U) 
-|168|[Creating Expression1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V) 
-|169|[Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W) 
-|170|[The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X) 
-|171|[Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y) 
-|171|[Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z) 
+
+| # | Title                                                                                          | Solution                     |
+|---| ---------------------------------------------------------------------------------------------- |------------------------------|
+|147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)             |
+|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)           | [C++](./C++/148_print1ton.cpp)
+|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)           | [C++](./C++/149_printNto1.cpp) 
+|150|[Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D)| 
+|151|[Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E)            |
+|152|[Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)          |
+|153|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G)                     |
+|154|[Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H)            |
+|155|[Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I)                |
+|156|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)                   |
+|157|[Max Number](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K)                  |
+|158|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L)                   | 
+|159|[Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M)                  |
+|160|[Sum of a Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N)             |
+|161|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)                   |
+|162|[Log2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P)                        |
+|163|[3n + 1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q)             |
+|164|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)            |
+|165|[Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S)               |
+|166|[Combination](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/T)                 |
+|167|[Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)                    |
+|168|[Creating Expression1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V)        |
+|169|[Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W)                 |
+|170|[The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X)        |
+|171|[Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y)              |
+|171|[Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z)                    |
 
 ## General Easy
-| # | Title | Solution |
-|---| ----- | -------- |
-
-Expression https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A
-Watermelon (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B)
-Beautiful Matrix (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/C)
-Bear and Big Brother (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/D)
-George and Accommodation (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/E)
-Fox And Snake (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/F)
-Magnets (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/G)
-Presents (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/H)
-Colorful Stones (Simplified Edition) (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/I)
-Lucky Division (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/J)
-Prime Fibonacci (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/K)
-Sereja and Dima (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/L)
-The New Year: Meeting Friends (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/M)
-Cakeminator (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/N)
-Free Ice Cream (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/O)
-Police Recruits (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/P)
-Night at the Museum (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Q)
-Arrival of the General (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/R)
-Good Number (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/S)
-Helpful Maths (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/T)
-Ilya and Bank Account (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/U)
-Is it rated? (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/V)
-Mahmoud and Longest Uncommon Subsequence (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/W)
-Panoramix's Prediction (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X)
-Team Olympiad (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y)
-Decoding (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z)
+| # | Title                                                                                                      | Solution          |
+|---| ---------------------------------------------------------------------------------------------------------- |-------------------|
+|172|[Expression](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A)                              |
+|173|[Watermelon](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B)                              |
+|174|[Beautiful Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/C)                        |
+|175|[Bear and Big Brother](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/D)                    |
+|176|[George and Accommodation](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/E)                |
+|177|[Fox And Snake](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/F)                           |
+|178|[Magnets](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/G)                                 |
+|179|[Presents](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/H)                                |
+|180|[Colorful Stones(Simplified Edition)](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/I)     |
+|181|[Lucky Division](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/J)                          |
+|182|[Prime Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/K)                         |
+|183|[Sereja and Dima](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/L)                         |
+|184|[The New Year: Meeting Friends](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/M)           |
+|185|[Cakeminator](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/N)                             |
+|186|[Free Ice Cream](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/O)                          |
+|187|[Police Recruits](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/P)                         |
+|188|[Night at the Museum](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Q)                     |
+|189|[Arrival of the General](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/R)                  |
+|190|[Good Number](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/S)                             |
+|191|[Helpful Maths](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/T)                           |
+|192|[Ilya and Bank Account](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/U)                   |
+|193|[Is it rated?](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/V)                            |
+|194|[Mahmoud and Longest Uncommon Subsequence](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/W)|
+|195|[Panoramix's Prediction](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X)                  |
+|196|[Team Olympiad](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y)                           |
+|197|[Decoding](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z)                                |
 
 
 ## General Medium
-| # | Title | Solution |
-|---| ----- | -------- |
+| # | Title                                                                                                        | Solution        |
+|---| ------------------------------------------------------------------------------------------------------------ |-----------------|
+|198|[Drawing Task](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A)                              |
+|199|[Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/B)|
+|200|[Dragons](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/C)                                   |
+|201|[Juicer](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/D)                                    |
+|202|[Keyboard](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/E)                                  |
+|203|[Puzzles](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/F)                                   |
+|204|[Twins](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/G)                                     |
+|205|[Launch of Collider](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/H)                        |
+|206|[Lineland Mail](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/I)                             |
+|207|[Shaass and Oskols](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/J)                         |
+|208|[Stars Drawing (Easy Edition)](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/K)              |
+|209|[Announcement !](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/L)                            |
+|210|[!Palindromes](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/M)                              |
+|211|[Pumbaa And Apples](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/N)                         |
+|212|[Yaroslav and Permutations](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/O)                 |
+|213|[Calculating Function](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/P)                      |
+|214|[Dreamoon and Stairs](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Q)                       |
+|215|[Ksenia and Pan Scales](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/R)                     |
+|216|[Mahmoud and a Triangle](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/S)                    |
+|217|[Olesya and Rodion](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/T)                         |
+|218|[T-primes](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/U)                                  |
+|219|[Balanced Rating Changes](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/V)                   |
+|220|[Football](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/W)                                  |
+|221|[Mountain Scenery](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/X)                          |
+|222|[Polo the Penguin and Segments](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Y)             |
+|223|[Fraction](https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z)                                  |
 
-Drawing Task (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A)
-Arpa’s hard exam and Mehrdad’s naive cheat (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/B)
-Dragons (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/C)
-Juicer (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/D)
-Keyboard (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/E)
-Puzzles (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/F)
-Twins (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/G)
-Launch of Collider (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/H)
-Lineland Mail (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/I)
-Shaass and Oskols (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/J)
-Stars Drawing (Easy Edition) (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/K)
-Announcement ! (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/L)
-!Palindromes (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/M)
-Pumbaa And Apples (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/N)
-Yaroslav and Permutations (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/O)
-Calculating Function (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/P)
-Dreamoon and Stairs (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Q)
-Ksenia and Pan Scales (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/R)
-Mahmoud and a Triangle (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/S)
-Olesya and Rodion (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/T)
-T-primes (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/U)
-Balanced Rating Changes (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/V)
-Football (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/W)
-Mountain Scenery (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/X)
-Polo the Penguin and Segments (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Y)
-Fraction (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z)
 
 ## General Hard
-
-| # | Title | Solution |
-|---| ----- | -------- |
-
-Palindromes Replace (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
-Delete from the Left (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
-Koko And The Transformation (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
-Hussien and Strings (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/D)
-Construct The Sum (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/E)
-Marks (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/F)
-Smallest Product (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/G)
-Chewbaсca and Number (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/H)
-Coins (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/I)
-Help Vasilisa the Wise 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/J)
-Snacktower (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/K)
-Two Squares (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/L)
-Postcard (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/M)
-Katryoshka (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/N)
-Help Koko (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/O)
-No Time for Dragons (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/P)
-Bulbs (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Q)
-Cut Ribbon (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/R)
-DZY Loves Chessboard (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S)
-Easter Eggs (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T)
-From S To T (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/U)
-New Password (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V)
-Hussien and Arrays 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W)
-Strange Addition (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X)
-Spiral (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y)
-Triangle (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Z)
+| # | Title                                                                                            | Solution         |
+|---| ------------------------------------------------------------------------------------------------ |------------------|
+|224|[Palindromes Replace](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)           |
+|225|[Delete from the Left](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)          |
+|226|[Koko And The Transformation](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)   |
+|227|[Hussien and Strings](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/D)           |
+|228|[Construct The Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/E)             |
+|229|[Marks](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/F)                         |
+|230|[Smallest Product](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/G)              |
+|231|[Chewbaсca and Number](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/H)          |
+|232|[Coins](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/I)                         |
+|234|[Help Vasilisa the Wise 2](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/J)      |
+|235|[Snacktower](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/K)                    |
+|236|[Two Squares](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/L)                   |
+|237|[Postcard](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/M)                      |
+|238|[Katryoshka](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/N)                    |
+|239|[Help Koko](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/O)                     |
+|240|[No Time for Dragons](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/P)           |
+|241|[Bulbs](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Q)                         |
+|242|[Cut Ribbon](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/R)                    |
+|243|[DZY Loves Chessboard](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S)          |
+|244|[Easter Eggs](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T)                   |
+|245|[From S To T](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/U)                   |
+|246|[New Password](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V)                  |
+|247|[Hussien and Arrays 2](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W)          |
+|248|[Strange Addition](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X)              |
+|249|[Spiral](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y)                        |
+|250|[Triangle](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Z)                      |
