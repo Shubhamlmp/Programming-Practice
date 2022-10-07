@@ -44,67 +44,66 @@ This Repository was made for newcomers in programming who are looking for an onl
 In the "Repository" you will find the topics and its problems.
 
 ## Data Type & Conditions
-
-| #   | Title                                                                                              | Solution                         |
-| --- | -------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 1   | [Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A)             | [C++](./C++/sayHelloWithC++.cpp) |
-| 2   | [Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)               | [C++](./C++/BasicDataTypes.cpp)  |
-| 3   | [Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)              |
-| 4   | [Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D)                     | [C++](./C++/Difference.cpp)      |
-| 5   | [Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E)               |
-| 6   | [Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)               |
-| 7   | [Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)          |
-| 8   | [Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H)                    |
-| 9   | [Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) |
-| 10  | [Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)                      |
-| 11  | [Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)                    |
-| 12  | [The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L)                   | [C++](./C++/The Brothers)        |
-| 13  | [Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)      |
-| 14  | [Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)                           |
-| 15  | [Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O)                     |
-| 16  | [First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P)                  |
-| 17  | [Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q)         |
-| 18  | [Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R)                    |
-| 19  | [Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S)                       |
-| 20  | [Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T)                   |
-| 21  | [Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U)                   |
-| 22  | [ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)                    |
-| 23  | [Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)        |
-| 24  | [Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)                  |
-| 25  | [The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)              |
-| 26  | [ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)                  |
+                  |
+| # | Title | Solution |
+|---| ----- | -------- |
+|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/sayHelloWithC++.cpp)
+|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/BasicDataTypes.cpp)
+|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
+|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/Difference.cpp)
+|5|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [C++](./C++/5_AreaOfACircle.cpp)
+|6|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
+|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+|8|[Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [C++](./C++/8_Two_Numbers.cpp)
+|9|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)[C++](./C++/Welcome_for_you.cpp)
+|10|[Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)[C++](./C++/Multiples.cpp)
+|11|[Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)[C++](./C++/Max_and_min.cpp)
+|12|[The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) | [C++](./C++/12_The_Brothers.cpp)
+|13|[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)[C++](./C++/Capital_or_Small_or_Digit.cpp)
+|14|[Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) | [C++](./C++/14_Char.cpp)
+|15|[Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) | [C++](./C++/15_Calculator.cpp)
+|16|[First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) | [C++](./C++/16_First_digit.cpp)
+|17|[Coordinates of a Point](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q) | [C++](./C++/17_Coordinates_of_a_Point.cpp)
+|18|[Age in Days](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) | [C++](./C++/18_Age_in_Days.cpp)
+|19|[Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [C++](./C++/19_Interval.cpp)
+|20|[Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [C++](./C++/20_Sort_Numbers.cpp)
+|21|[Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [C++](./C++/21_Float_or_Int.cpp)
+|22|[ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)
+|23|[Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)
+|24|[Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)
+|25|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
+|26|[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 ## Loops
-
-| #   | Title                                                                                                | Solution |
-| --- | ---------------------------------------------------------------------------------------------------- | -------- |
-| 27  | [The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A)                |
-| 28  | [1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B)                           |
-| 29  | [Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C)                     |
-| 30  | [Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) |
-| 31  | [Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)                   |
-| 32  | [Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)                              |
-| 33  | [Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F)             |
-| 34  | [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)                        |
-| 35  | [One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H)                        |
-| 36  | [palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I)                       |
-| 37  | [Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J)               |
-| 38  | [Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K)                         |
-| 39  | [GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)                              |
-| 40  | [Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)                    |
-| 41  | [Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)                |
-| 42  | [Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O)                          |
-| 43  | [Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P)                           |
-| 44  | [Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)                           |
-| 45  | [Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R)      |
-| 46  | [Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)   |
-| 47  | [Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T)                           |
-| 48  | [Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U)                        |
-| 49  | [PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V)                              |
-| 50  | [Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W)                           |
-| 51  | [Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)             |
-| 52  | [Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)                   |
-| 53  | [Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)                    |
+| # | Title | Solution |
+|---| ----- | -------- |
+|27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) 
+|28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) 
+|29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) 
+|30|[Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) 
+|31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) 
+|32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) 
+|33|[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [C++](./C++/33_Multiplication_Table.cpp)
+|34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)  | [C++](./C++/34_Factorial.cpp)
+|35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [C++](./C++/35_One_Prime.cpp)
+|36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [C++](./C++/36_Palindrome.cpp)
+|37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
+|38|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
+|39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) 
+|40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) 
+|41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) 
+|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) 
+|43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) 
+|44|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) 
+|45|[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) 
+|46|[Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) 
+|47|[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) 
+|48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) 
+|49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) 
+|50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) 
+|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) 
+|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) 
+|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
 
 ## Arrays
 
