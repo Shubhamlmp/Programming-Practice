@@ -134,6 +134,8 @@ In the "Repository" you will find the topics and its problems.
 |77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) 
 |78|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) 
 |79|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+|80|[Array Sum](array_sum.py/Z)
+
 
 
 ## Strings
