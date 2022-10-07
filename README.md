@@ -243,7 +243,10 @@ In the "Repository" you will find the topics and its problems.
 |170|[The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X) 
 |171|[Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y) 
 |171|[Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z) 
+
 ## General Easy
+| # | Title | Solution |
+|---| ----- | -------- |
 Expression https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A
 Watermelon (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B)
 Beautiful Matrix (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/C)
@@ -270,7 +273,10 @@ Mahmoud and Longest Uncommon Subsequence (https://codeforces.com/group/MWSDmqGsZ
 Panoramix's Prediction (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X)
 Team Olympiad (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y)
 Decoding (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z)
+
 ## General Medium
+| # | Title | Solution |
+|---| ----- | -------- |
 Drawing Task (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A)
 Arpa’s hard exam and Mehrdad’s naive cheat (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/B)
 Dragons (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/C)
@@ -297,7 +303,10 @@ Football (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/W)
 Mountain Scenery (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/X)
 Polo the Penguin and Segments (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Y)
 Fraction (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z)
+
 ## General Hard
+| # | Title | Solution |
+|---| ----- | -------- |
 Palindromes Replace (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
 Delete from the Left (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
 Koko And The Transformation (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
