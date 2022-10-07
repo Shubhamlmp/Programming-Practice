@@ -115,7 +115,7 @@ In the "Repository" you will find the topics and its problems.
 |58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
 |59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
 |60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) 
-|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) 
+|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [C++](./C++/Selection_sort.cpp)
 |62|[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) 
 |63|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) 
 |64|[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) 
@@ -218,8 +218,8 @@ In the "Repository" you will find the topics and its problems.
 | # | Title | Solution |
 |---| ----- | -------- |
 |147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) 
-|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) 
-|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) 
+|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) | [C++](./C++/148_print1ton.cpp)
+|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) | [C++](./C++/149_printNto1.cpp) 
 |150|[Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) 
 |151|[Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E) 
 |152|[Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F) 
