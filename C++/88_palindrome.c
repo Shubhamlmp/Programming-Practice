@@ -22,11 +22,11 @@ int main(){
     
     if (flag)
     {
-        cout << string1 << " is not a palindrome" << endl; 
+        cout << string1 << " YES " << endl; 
     }    
     else 
     {
-        cout << string1 << " is a palindrome" << endl; 
+        cout << string1 << " NO " << endl; 
     }
     system("pause");
     return 0;
