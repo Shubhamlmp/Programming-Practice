@@ -77,12 +77,12 @@ In the "Repository" you will find the topics and its problems.
 ## Loops
 | # | Title | Solution |
 |---| ----- | -------- |
-|27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) 
-|28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) 
-|29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) 
-|30|[Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) 
-|31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) 
-|32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) 
+|27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [C++](./C++/27_The_last_2_digits.cpp)
+|28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) |[C++](./C++/28_1_to_N.cpp)
+|29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) |[C++](./C++/29_Even_Numbers.cpp)
+|30|[Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) |[C++](./C++/30_Even,Odd,Positive_and_Negative.cpp)
+|31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) |[C++](./C++/31_Fixed_Password.cpp)
+|32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) |[C++](./C++/32_max.cpp)
 |33|[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [C++](./C++/33_Multiplication_Table.cpp)
 |34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)  | [C++](./C++/34_Factorial.cpp)
 |35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [C++](./C++/35_One_Prime.cpp)
@@ -107,34 +107,35 @@ In the "Repository" you will find the topics and its problems.
 
 ## Arrays
 
-| #   | Title                                                                                         | Solution                      |
-| --- | --------------------------------------------------------------------------------------------- | ----------------------------- |
-| 54  | [Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A)                 | [C++](./C++/Summation.cpp)    |
-| 55  | [Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B)                 | [C++](./C++/Searching.cpp)    |
-| 56  | [Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)               |
-| 57  | [Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D)        |
-| 58  | [Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)             | [C++](./C++/LowestNumber.cpp) |
-| 59  | [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)                 |
-| 60  | [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)          |
-| 61  | [Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H)                   |
-| 62  | [Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)             |
-| 63  | [Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J)               |
-| 64  | [Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)                      |
-| 65  | [Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)              |
-| 66  | [Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)            |
-| 67  | [Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)                |
-| 68  | [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O)                 |
-| 69  | [Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)           |
-| 70  | [Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q)           |
-| 71  | [Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R)   |
-| 72  | [Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S)          |
-| 73  | [Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T)                    |
-| 74  | [Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) |
-| 75  | [Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)           |
-| 76  | [Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)              |
-| 77  | [8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)               |
-| 78  | [Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)           |
-| 79  | [Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)             |
+| # | Title | Solution |
+|---| ----- | -------- |
+|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/Summation.cpp)
+|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/Searching.cpp)
+|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) 
+|57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) 
+|58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
+|59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
+|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) 
+|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [C++](./C++/Selection_sort.cpp)
+|62|[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) 
+|63|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) 
+|64|[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) 
+|65|[Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) 
+|66|[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) 
+|67|[Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) 
+|68|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) 
+|69|[Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) 
+|70|[Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) 
+|71|[Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R) 
+|72|[Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S) 
+|73|[Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T) 
+|74|[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) 
+|75|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) 
+|76|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) 
+|77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) 
+|78|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) 
+|79|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+
 
 ## Strings
 
@@ -220,36 +221,41 @@ In the "Repository" you will find the topics and its problems.
 
 ## Basic Recursion
 
-| #   | Title                                                                                            | Solution |
-| --- | ------------------------------------------------------------------------------------------------ | -------- |
-| 147 | [Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A)              |
-| 148 | [Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)            |
-| 149 | [Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C)            |
-| 150 | [Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) |
-| 151 | [Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E)             |
-| 152 | [Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F)           |
-| 153 | [Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G)                      |
-| 154 | [Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H)             |
-| 155 | [Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I)                 |
-| 156 | [Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)                    |
-| 157 | [Max Number](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K)                   |
-| 158 | [Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L)                    |
-| 159 | [Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M)                   |
-| 160 | [Sum of a Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N)              |
-| 161 | [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)                    |
-| 162 | [Log2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P)                         |
-| 163 | [3n + 1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q)              |
-| 164 | [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)             |
-| 165 | [Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S)                |
-| 166 | [Combination](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/T)                  |
-| 167 | [Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)                     |
-| 168 | [Creating Expression1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V)         |
-| 169 | [Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W)                  |
-| 170 | [The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X)         |
-| 171 | [Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y)               |
-| 171 | [Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z)                     |
+## General Easy
+
+=======
+| # | Title | Solution |
+|---| ----- | -------- |
+|147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) 
+|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) | [C++](./C++/148_print1ton.cpp)
+|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) | [C++](./C++/149_printNto1.cpp) 
+|150|[Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) 
+|151|[Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E) 
+|152|[Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F) 
+|153|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G) 
+|154|[Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H) 
+|155|[Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I) 
+|156|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J) 
+|157|[Max Number](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K) 
+|158|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L) 
+|159|[Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M) 
+|160|[Sum of a Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N) 
+|161|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O) 
+|162|[Log2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P) 
+|163|[3n + 1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q)
+|164|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R) 
+|165|[Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S) 
+|166|[Combination](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/T) 
+|167|[Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U) 
+|168|[Creating Expression1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V) 
+|169|[Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W) 
+|170|[The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X) 
+|171|[Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y) 
+|171|[Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z) 
 
 ## General Easy
+| # | Title | Solution |
+|---| ----- | -------- |
 
 Expression https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A
 Watermelon (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B)
@@ -277,9 +283,11 @@ Mahmoud and Longest Uncommon Subsequence (https://codeforces.com/group/MWSDmqGsZ
 Panoramix's Prediction (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X)
 Team Olympiad (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y)
 Decoding (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z)
-serach insert position (https://leetcode.com/problems/search-insert-position/)
+
 
 ## General Medium
+| # | Title | Solution |
+|---| ----- | -------- |
 
 Drawing Task (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A)
 Arpa’s hard exam and Mehrdad’s naive cheat (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/B)
@@ -309,6 +317,9 @@ Polo the Penguin and Segments (https://codeforces.com/group/MWSDmqGsZm/contest/2
 Fraction (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z)
 
 ## General Hard
+
+| # | Title | Solution |
+|---| ----- | -------- |
 
 Palindromes Replace (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
 Delete from the Left (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
