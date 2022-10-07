@@ -114,7 +114,7 @@ In the "Repository" you will find the topics and its problems.
 |57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [C++](./C++/57_Positions_in_array.cpp)
 |58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
 |59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
-|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) 
+|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) | [C++](./C++/60_Palindrome_array.cpp)
 |61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [C++](./C++/Selection_sort.cpp)
 |62|[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) 
 |63|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) 
