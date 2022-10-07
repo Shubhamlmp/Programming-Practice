@@ -91,7 +91,7 @@ In the "Repository" you will find the topics and its problems.
 |39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) 
 |40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) 
 |41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) 
-|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) 
+|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
 |43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) 
 |44|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) 
 |45|[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) 
