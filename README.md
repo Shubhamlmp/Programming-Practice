@@ -44,7 +44,6 @@ This Repository was made for newcomers in programming who are looking for an onl
 In the "Repository" you will find the topics and its problems.
 
 ## Data Type & Conditions
-                  |
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/sayHelloWithC++.cpp)
