@@ -46,10 +46,10 @@ In the "Repository" you will find the topics and its problems.
 ## Data Type & Conditions
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/sayHelloWithC++.cpp)
-|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/BasicDataTypes.cpp)
-|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
-|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/Difference.cpp)
+|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/1_sayHelloWithC++.cpp)
+|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/2_BasicDataTypes.cpp)
+|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [C++](./C++/3_CalculatorUsingoops.cpp)
+|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/4_Difference.cpp)
 |5|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [C++](./C++/5_AreaOfACircle.cpp)
 |6|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
 |7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
@@ -100,17 +100,17 @@ In the "Repository" you will find the topics and its problems.
 |48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [C++](./C++/USomeSums.cpp)
 |49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [C++](./C++/VPUM.cpp) 
 |50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [C++](./C++/Shape3.cpp)
-|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) 
-|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) 
-|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
+|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)  | [C++](./C++/51_decimal.cpp)
+|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
+|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
 
 ## Arrays
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/Summation.cpp)
-|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/Searching.cpp)
-|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) 
+|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/54_Summation.cpp)
+|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/55_Searching.cpp)
+|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) | [C++](./C++/56_replacement.cpp)
 |57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) 
 |58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
 |59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
