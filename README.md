@@ -52,7 +52,7 @@ In the "Repository" you will find the topics and its problems.
 |4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/4_Difference.cpp)
 |5|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [C++](./C++/5_AreaOfACircle.cpp)
 |6|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
-|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [C++](./C++/7_Summationfrom1toN.cpp)
 |8|[Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [C++](./C++/8_Two_Numbers.cpp)
 |9|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)[C++](./C++/9_Welcome_for_you.cpp)
 |10|[Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [C++](./C++/10_Multiples.cpp)
