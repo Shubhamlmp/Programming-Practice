@@ -219,10 +219,6 @@ In the "Repository" you will find the topics and its problems.
 | 146 | [Geometry Test](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/Z)               |
 
 ## Basic Recursion
-
-## General Easy
-
-=======
 | # | Title | Solution |
 |---| ----- | -------- |
 |147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) 
@@ -256,7 +252,6 @@ In the "Repository" you will find the topics and its problems.
 ## General Easy
 | # | Title | Solution |
 |---| ----- | -------- |
-
 Expression https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A
 Watermelon (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B)
 Beautiful Matrix (https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/C)
@@ -289,7 +284,6 @@ Calculator Using oops ()
 ## General Medium
 | # | Title | Solution |
 |---| ----- | -------- |
-
 Drawing Task (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A)
 Arpa’s hard exam and Mehrdad’s naive cheat (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/B)
 Dragons (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/C)
@@ -318,10 +312,8 @@ Polo the Penguin and Segments (https://codeforces.com/group/MWSDmqGsZm/contest/2
 Fraction (https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z)
 
 ## General Hard
-
 | # | Title | Solution |
 |---| ----- | -------- |
-
 Palindromes Replace (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
 Delete from the Left (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
 Koko And The Transformation (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
