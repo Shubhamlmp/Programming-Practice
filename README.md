@@ -44,9 +44,9 @@ This Repository was made for newcomers in programming who are looking for an onl
 In the "Repository" you will find the topics and its problems.
 
 ## Data Type & Conditions
+
 | # | Title | Solution |
 |---| ----- | -------- |
-
 |01|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/1_sayHelloWithC++.cpp)
 |02|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/2_BasicDataTypes.cpp)
 |03|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [C++](./C++/3_CalculatorUsingoops.cpp)
@@ -316,34 +316,6 @@ In the "Repository" you will find the topics and its problems.
 ## General Hard
 | # | Title | Solution |
 |---| ----- | -------- |
-Palindromes Replace (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
-Delete from the Left (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
-Koko And The Transformation (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
-Hussien and Strings (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/D)
-Construct The Sum (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/E)
-Marks (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/F)
-Smallest Product (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/G)
-Chewbaсca and Number (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/H)
-Coins (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/I)
-Help Vasilisa the Wise 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/J)
-Snacktower (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/K)
-Two Squares (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/L)
-Postcard (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/M)
-Katryoshka (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/N)
-Help Koko (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/O)
-No Time for Dragons (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/P)
-Bulbs (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Q)
-Cut Ribbon (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/R)
-DZY Loves Chessboard (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S)
-Easter Eggs (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T)
-From S To T (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/U)
-New Password (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V)
-Hussien and Arrays 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W)
-Strange Addition (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X)
-Spiral (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y)
-Triangle (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Z)
-
-=======
 |227|[Palindromes Replace](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
 |228|[Delete from the Left](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
 |229|[Koko And The Transformation](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
