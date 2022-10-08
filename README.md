@@ -103,7 +103,8 @@ In the "Repository" you will find the topics and its problems.
 |51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)  | [C++](./C++/51_decimal.cpp)
 |52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
 |53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
-
+|59|[fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/AA) | [C++](./C++/59_fibonacci.cpp)
+|60|[Butterfly_pattern](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/AB) | [C++](./C++/60_butterfly_pattern.cpp)
 ## Arrays
 
 | # | Title | Solution |
@@ -340,3 +341,4 @@ Hussien and Arrays 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/pro
 Strange Addition (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X)
 Spiral (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y)
 Triangle (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Z)
+

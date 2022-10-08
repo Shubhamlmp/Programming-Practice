@@ -1,4 +1,4 @@
-// butterfly pattern using c++
+// butterfly pattern 
 #include<iostream>
 using namespace std;
 
