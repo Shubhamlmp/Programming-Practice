@@ -104,8 +104,6 @@ In the "Repository" you will find the topics and its problems.
 |51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)  | [C++](./C++/51_decimal.cpp)
 |52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
 |53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
-|59|[fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/AA) | [C++](./C++/59_fibonacci.cpp)
-|60|[Butterfly_pattern](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/AB) | [C++](./C++/60_butterfly_pattern.cpp)
 ## Arrays
 
 | # | Title | Solution |
@@ -124,7 +122,7 @@ In the "Repository" you will find the topics and its problems.
 |65|[Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)
 |66|[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)
 |67|[Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)
-|68|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O)
+|68|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) | [C++](./C++/59_fibonacci.cpp)
 |69|[Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)
 |70|[Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q)
 |71|[Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R)
