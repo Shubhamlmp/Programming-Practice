@@ -108,14 +108,14 @@ In the "Repository" you will find the topics and its problems.
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/54_Summation.cpp)
-|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/55_Searching.cpp)
-|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) | [C++](./C++/56_replacement.cpp)
-|57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) 
-|58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/58_LowestNumber.cpp)
+|54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/Summation.cpp)
+|55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/Searching.cpp)
+|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)  | [C++](./C++/56_replacement.cpp)
+|57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [C++](./C++/57_Positions_in_array.cpp)
+|58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
 |59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
-|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) 
-|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [C++](./C++/61_selectionSort.cpp)
+|60|[Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) | [C++](./C++/60_Palindrome_array.cpp)
+|61|[Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [C++](./C++/Selection_sort.cpp)
 |62|[Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) 
 |63|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) 
 |64|[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) 
