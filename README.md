@@ -46,12 +46,13 @@ In the "Repository" you will find the topics and its problems.
 ## Data Type & Conditions
 | # | Title | Solution |
 |---| ----- | -------- |
+
 |01|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/1_sayHelloWithC++.cpp)
 |02|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/2_BasicDataTypes.cpp)
 |03|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [C++](./C++/3_CalculatorUsingoops.cpp)
 |04|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/4_Difference.cpp)
 |05|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [C++](./C++/5_AreaOfACircle.cpp)
-|06|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
+|06|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [C++](./C++/6_digit_sum.cpp)
 |07|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [C++](./C++/7_Summationfrom1toN.cpp)
 |08|[Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [C++](./C++/8_Two_Numbers.cpp)
 |09|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)| [C++](./C++/9_Welcome_for_you.cpp)
