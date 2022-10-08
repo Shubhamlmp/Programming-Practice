@@ -148,7 +148,7 @@ In the "Repository" you will find the topics and its problems.
 | 85  | [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      |
 | 86  | [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              |
 | 87  | [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             |
-| 88  | [Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)              |
+| 88  | [Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)              | [C++](./C++/88_palindrome.cpp)
 | 89  | [Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)           |
 | 90  | [I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)          |
 | 91  | [String Functions](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/L)        |
@@ -177,7 +177,7 @@ In the "Repository" you will find the topics and its problems.
 | 109 | [prime function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)       |
 | 110 | [Swap](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E)                 |
 | 111 | [Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F)             |
-| 112 | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          |
+| 112 | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          | [C++](./C++/112_minAndMax.cpp)
 | 113 | [N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)              |
 | 114 | [Swapping with matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I) |
 | 115 | [Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J)              |
