@@ -46,19 +46,19 @@ In the "Repository" you will find the topics and its problems.
 ## Data Type & Conditions
 | # | Title | Solution |
 |---| ----- | -------- |
-|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/sayHelloWithC++.cpp)
-|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/BasicDataTypes.cpp)
-|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C)
-|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/Difference.cpp)
+|1|[Say Hello With C++](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [C++](./C++/1_sayHelloWithC++.cpp)
+|2|[Basic Data Types](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B)   | [C++](./C++/2_BasicDataTypes.cpp)
+|3|[Simple Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [C++](./C++/3_CalculatorUsingoops.cpp)
+|4|[Difference](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [C++](./C++/4_Difference.cpp)
 |5|[Area of a Circle](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [C++](./C++/5_AreaOfACircle.cpp)
 |6|[Digits Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F)
-|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G)
+|7|[Summation from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [C++](./C++/7_Summationfrom1toN.cpp)
 |8|[Two numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [C++](./C++/8_Two_Numbers.cpp)
-|9|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)[C++](./C++/Welcome_for_you.cpp)
-|10|[Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)[C++](./C++/Multiples.cpp)
-|11|[Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)[C++](./C++/Max_and_min.cpp)
+|9|[Welcome for you with Condition](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)[C++](./C++/9_Welcome_for_you.cpp)
+|10|[Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [C++](./C++/10_Multiples.cpp)
+|11|[Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K) | [C++](./C++/11_Max_and_min.cpp)
 |12|[The Brothers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) | [C++](./C++/12_The_Brothers.cpp)
-|13|[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)[C++](./C++/Capital_or_Small_or_Digit.cpp)
+|13|[Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M) | [C++](./C++/13_Capital_or_Small_or_Digit.cpp)
 |14|[Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) | [C++](./C++/14_Char.cpp)
 |15|[Calculator](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) | [C++](./C++/15_Calculator.cpp)
 |16|[First digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) | [C++](./C++/16_First_digit.cpp)
@@ -91,18 +91,18 @@ In the "Repository" you will find the topics and its problems.
 |39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) 
 |40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) 
 |41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) 
-|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) 
+|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
 |43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) 
 |44|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) 
 |45|[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) 
 |46|[Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) 
-|47|[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [C++](./C++/Shape2.cpp)
-|48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [C++](./C++/USomeSums.cpp)
-|49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [C++](./C++/VPUM.cpp) 
-|50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [C++](./C++/Shape3.cpp)
-|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) 
-|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) 
-|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)
+|47|[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [C++](./C++/47_Shape2.cpp)
+|48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [C++](./C++/48_SomeSums.cpp)
+|49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [C++](./C++/49_PUM.cpp) 
+|50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [C++](./C++/50_Shape3.cpp)
+|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)  | [C++](./C++/51_decimal.cpp)
+|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
+|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
 
 ## Arrays
 
@@ -110,7 +110,7 @@ In the "Repository" you will find the topics and its problems.
 |---| ----- | -------- |
 |54|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [C++](./C++/Summation.cpp)
 |55|[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [C++](./C++/Searching.cpp)
-|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) 
+|56|[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)  | [C++](./C++/56_replacement.cpp)
 |57|[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [C++](./C++/57_Positions_in_array.cpp)
 |58|[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  | [C++](./C++/LowestNumber.cpp)
 |59|[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) 
@@ -198,7 +198,7 @@ In the "Repository" you will find the topics and its problems.
 | 125 | [Maximum Distinct Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/E)    |
 | 126 | [Multiplication of Matrices](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/F)  |
 | 127 | [Summation of its divisors](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/G)   |
-| 128 | [GCD](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/H)                         |
+| 128 | [GCD](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/H)                         | [C++](./C++/128_GCD.cpp)
 | 129 | [Divisability](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/I)                |
 | 130 | [Prime Factors](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/J)               |
 | 131 | [Combination and Permutation](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/K) |
