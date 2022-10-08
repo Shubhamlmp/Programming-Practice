@@ -177,7 +177,7 @@ In the "Repository" you will find the topics and its problems.
 | 109 | [prime function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)       |
 | 110 | [Swap](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E)                 |
 | 111 | [Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F)             |
-| 112 | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          |
+| 112 | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          | [C++](./C++/112_minAndMax.cpp)
 | 113 | [N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)              |
 | 114 | [Swapping with matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I) |
 | 115 | [Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J)              |
