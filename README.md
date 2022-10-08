@@ -335,7 +335,7 @@ In the "Repository" you will find the topics and its problems.
 |245|[DZY Loves Chessboard](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S)
 |246|[Easter Eggs](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T)
 |247|[From S To T](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/U)
-|248|[New Password](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V)
+|248|[New Password](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V) | [C++](./C++/248_New_Password.cpp)
 |249|[Hussien and Arrays 2](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W)
 |250|[Strange Addition](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X)
 |251|[Spiral](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y)
