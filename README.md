@@ -103,7 +103,8 @@ In the "Repository" you will find the topics and its problems.
 |51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)  | [C++](./C++/51_decimal.cpp)
 |52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
 |53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
-
+|59|[fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/AA) | [C++](./C++/59_fibonacci.cpp)
+|60|[Butterfly_pattern](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/AB) | [C++](./C++/60_butterfly_pattern.cpp)
 ## Arrays
 
 | # | Title | Solution |
@@ -314,6 +315,34 @@ In the "Repository" you will find the topics and its problems.
 ## General Hard
 | # | Title | Solution |
 |---| ----- | -------- |
+Palindromes Replace (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
+Delete from the Left (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
+Koko And The Transformation (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
+Hussien and Strings (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/D)
+Construct The Sum (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/E)
+Marks (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/F)
+Smallest Product (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/G)
+Chewbaсca and Number (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/H)
+Coins (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/I)
+Help Vasilisa the Wise 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/J)
+Snacktower (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/K)
+Two Squares (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/L)
+Postcard (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/M)
+Katryoshka (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/N)
+Help Koko (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/O)
+No Time for Dragons (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/P)
+Bulbs (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Q)
+Cut Ribbon (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/R)
+DZY Loves Chessboard (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S)
+Easter Eggs (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T)
+From S To T (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/U)
+New Password (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V)
+Hussien and Arrays 2 (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W)
+Strange Addition (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X)
+Spiral (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y)
+Triangle (https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Z)
+
+=======
 |227|[Palindromes Replace](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A)
 |228|[Delete from the Left](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B)
 |229|[Koko And The Transformation](https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C)
