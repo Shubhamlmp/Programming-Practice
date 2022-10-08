@@ -19,10 +19,10 @@ int main()
     cout<<"Enter the Number=  ";    
     cin>>n;    
     temp=n;    
-    while(n>0) {
-        r=n%10;    
-        sum=sum+(r*r*r);    
-        n=n/10;
+    while(n>0) { // loop will run until all digits of number are considered
+        r=n%10; // storing the last digit of n in r
+        sum=sum+(r*r*r); // calculating the cube and adding in existing sum
+        n=n/10; // discarding the last digit one by one as it is taken into the account of sum
     }    
     if(temp==sum)    
         cout<<"Armstrong Number."<<endl;    
