@@ -129,7 +129,7 @@ In the "Repository" you will find the topics and its problems.
 |72|[Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S)
 |73|[Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T)
 |74|[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)
-|75|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)[C++](./C++/freq.cpp)
+|75|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)| [C++](./C++/freq.cpp)
 |76|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)
 |77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)
 |78|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
