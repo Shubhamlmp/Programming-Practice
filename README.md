@@ -71,7 +71,7 @@ In the "Repository" you will find the topics and its problems.
 |22|[ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)
 |23|[Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)
 |24|[Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)
-|25|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)
+|25|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [C++](./C++/#25_TheLast2Digit.cpp)
 |26|[ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)
 
 ## Loops
