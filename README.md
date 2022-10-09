@@ -131,7 +131,7 @@ In the "Repository" you will find the topics and its problems.
 |74|[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)
 |75|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)| [C++](./C++/freq.cpp)
 |76|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)| [C++](./C++/mirror.cpp)
-|77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)
+|77|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)| [C++](./C++/rangeSumQuery.cpp)
 |78|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
 |79|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
 
