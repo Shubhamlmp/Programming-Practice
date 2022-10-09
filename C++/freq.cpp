@@ -1,5 +1,5 @@
 #include<iostream>
-#include<bits/stdc++.h>
+#include<bits/stdc++>
 using namespace std;
 int main()
 {
