@@ -1,33 +1,87 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Unstable
-// O(n2)
-void selectionSort(int arr[], int n)
+// lps is of pattern
+// O(n+m) tIME AND o(m) SPACE
+void fill_LPS(const string &pattern, vector<int> &lps)
 {
-    for (int i = 0; i < n; i++)
+    int m = pattern.size();
+    // lenght of longest proper prefix suffix
+    lps[0] = 0;  // as proper prefix of string length  is 0
+    int i = 1;   // starting from first
+    int len = 0; // in, starting len = 0 
+    // len is previous length of matching 
+    while (i < m)
     {
-        int min_idx = i;
-        for (int j = i + 1; j < n; j++)
+        // if next char matches with len
+        if (pattern[i] == pattern[len])
         {
-            if (arr[min_idx] > arr[j])
+            len++;
+            lps[i] = len;
+            i++;
+        }
+        else
+        {
+            if (len == 0)
             {
-                min_idx = j;
+
+                lps[i] = 0;
+                i++;
+            }
+            else
+            { // recusively search for next len 
+                len = lps[len - 1];
             }
         }
-        swap(arr[i], arr[min_idx]);
-    }
-    for (int i = 0; i < n; i++)
-    {
-        cout << arr[i] << " ";
     }
 }
 
+void KMP(const string &text, const string &pattern)
+{
+    int n = text.size();
+    int m = pattern.size();
+
+    vector<int> lps(m, 0);
+    fill_LPS(pattern, lps);
+    int i = 0, j = 0;
+    while (i < n)
+    { 
+//       if match then move forward 
+        if (pattern[j] == text[i])
+        {
+            i++;
+            j++;
+        }
+        // if after match , it is covers entire lenght of pat.
+        if (j == m)
+        {
+            cout << (i - j) << " ";
+            j = lps[j - 1]; //FIND THE NEXT TO MATCH 
+        }
+        //  if not match 
+        else if (i < n and pattern[j] != text[i])
+        { 
+          // if first charcater not matching
+            if (j == 0)
+            {
+                i++;
+            }
+            // search recursively
+            else
+            {
+                j = lps[j - 1];
+            }
+        }
+    }
+}
+
+
 int main()
 {
-    int arr[] = {1, 4, 1, 32, 42, 2, 4, 1, 1, 313, 13};
-    int n = sizeof(arr) / sizeof(int);
-    selectionSort(arr, n);
-
+    string text;
+    cin >> text;
+    string pat;
+    cin >> pat;
+    KMP(text, pat);
     return 0;
 }
