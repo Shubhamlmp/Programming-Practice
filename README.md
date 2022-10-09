@@ -107,6 +107,7 @@ In the "Repository" you will find the topics and its problems.
 | 52  | [Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)                   | [C++](./C++/52_fibonacci.cpp)                      |
 | 53  | [Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z)                    | [C++](./C++/53_threenumbers.cpp)                   |
 
+
 ## Arrays
 
 | #   | Title                                                                                         | Solution                               |
@@ -119,7 +120,7 @@ In the "Repository" you will find the topics and its problems.
 | 59  | [Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)                 | [C++](./C++/59_fibonnaci_series.cpp)   |
 | 60  | [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G)          | [C++](./C++/60_Palindrome_array.cpp)   |
 | 61  | [Sorting](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H)                   | [C++](./C++/61_selectionSort.cpp)      |
-| 62  | [Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)             |
+| 62  | [Smallest Pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)             | [C++](./C++/62_Smallestpair.cpp)       |
 | 63  | [Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J)               |
 | 64  | [Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K)                      |
 | 65  | [Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)              |
