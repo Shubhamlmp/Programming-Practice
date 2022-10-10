@@ -14,7 +14,7 @@ int main()
     {
         int l,r;//input of lower limit and upper limit ie the range in which the sum is being calculated
         cin>>l>>r;
-        int sum=0;
+        long long int sum=0;
         for(int i=l-1;i<r;i++)
         {
             sum=sum+arr[i];
