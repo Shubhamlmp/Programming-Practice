@@ -5,23 +5,23 @@ int main()
 {
     int n,m;//initialising n and m
     cin>>n>>m;
-    int arr[n];//creating array of size n
+    int arr[m+1]={0};//creating array of size n
     for(int i=0;i<n;i++)
     {
-        cin>>arr[i];
-    }
-    map<int,int>freq;//creating map to keep count of the frequency
-    for(int i=0;i<n;i++)
-    {
-        freq[arr[i]]++;//counting frequecy of each element
-    }
-    for(int i=0;i<n;i++)
-    {
-        if(freq[arr[i]]!=0)
+        int num;
+        cin>>num;
+        if(arr[num]==0)
         {
-            cout<<freq[arr[i]]<<endl;//printing frequency of each element once
-            freq[arr[i]]=0;//making frquency zero after printing the frequency of the element so that elements are not repeatedly printed 
+            arr[num]=1;
         }
+        else
+        {
+            arr[num]=arr[num]+1;
+        }
+    }
+    for(int i=1;i<=m;i++)
+    {
+        cout<<arr[i]<<endl;//printing frequecy of each element
     }
     return 0;
 }
