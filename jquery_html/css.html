@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#b1").click(function () {
+                // $("p,h1,h3").toggleClass("blue")
+                // $("div").toggleClass("important")
+
+                // $("p").css("background-color","yellow")
+
+                $("p").css({ "background-color": "yellow", "font-size": "200%" })
+            })
+        })
+    </script>
+    <style>
+        /* .important {
+            font-weight: bold;
+            font-size: xx-large;
+        }
+
+        .blue {
+            color: blue;
+        } */
+    </style>
+</head>
+
+<body>
+
+    <p style="background-color:#ff0000">Lorem ipsum dolor sit amet consectetur;</p>
+    <p style="background-color:#00ff00">adipisicing elit. Maxime mollitia,
+        molestiae quas vel sint commodi repudiandae consequuntur;</p>
+    <p style="background-color:#0000ff">voluptatum laborum
+        numquam blanditiis harum</p>
+    <p>quisquam eius sed odit fugiat iusto fuga</p>
+    <button id="b1">Set background color of p</button>
+
+
+</body>
+
+</html>

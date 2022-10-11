@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        function aftertext(){
+            var txt1="<b>Added</b>";
+            var txt2=$("<i></i>").text("multiple");
+            var txt3=document.createElement("b");
+            txt3.innerHTML="After";
+            $("img").after(txt1,txt2,txt3)
+        }
+    </script>   
+</head>
+<body>
+    <img src="C:\Users\lenovo\OneDrive\Pictures\Siswaan dam\20220522_191322.jpg" height="300px" width="250px">
+    <br>
+    <br>
+    <button onclick="aftertext()" id="b1">append/after</button>
+    <!-- <button id="b2">prepend/before</button> -->
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#1").click(function () {
+                // console.log($("p").text())
+                $("p").text("<b>Hello World</b>")
+            })
+            $("#2").click(function () {
+                // console.log($("p").html())
+               $("p").html("<b>Hello world</b>")
+            })
+            $("#3").click(function(){
+                // console.log($("input").val())
+                $("input").val("Okey-dokey")
+            })
+            $("#4").click(function(){
+                // console.log($("a").attr("href"))
+                $("a").attr("href","https://www.geeksforgeeks.org/")
+            })
+        })
+    </script>
+</head>
+
+<body>
+    <p>This <i>is a</i> <u>paragraph</u> which has some <b>things in it.</b></p>
+    <p>This is another paragraph which doesnt have some fuddu cheezein in it.</p>
+    Name: <input type="text">
+    <br>
+    <a href="https://www.w3schools.com">W3schools.com</a>
+    <br>
+    <br>
+    <button id="1">Show text</button>
+    <br>
+    <button id="2">Show HTML</button>
+    <br>
+    <button id="3">Show value</button>
+    <br>
+    <!-- <button id="4">Show attribute</button> -->
+    <button id="4">Change attribute</button>
+</body>
+
+</html>

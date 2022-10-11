@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+<script>
+    $(document).ready(function () {
+        // Element selectors
+        $("#s1").click(function () {
+            $('p').toggle()
+            console.log("toggled all p", this)
+        })
+        // ID selctors
+        $("#s2").click(function () {
+            console.log("Clicked on button id#2", this)
+            $('#para').toggle(function () {
+                console.log("Toggled p #para", this)
+            })
+        })
+        // Class selectors
+        $(".d1").dblclick(function () {
+            console.log("double clicked .d1");
+            $(".d1").fadeOut(2000,function () {
+                console.log("Faded out .d1")
+            })
+        })
+
+    })
+</script>
+
+<body>
+    <p>This is paragraph1</p>
+    <p>This is paragraph2</p>
+    <p id="para">This is a paragraph with id para</p>
+    <button id="s1">Click to show/hide Paragraphs</button>
+    <button id="s2">Click on this button to show/hide paragraph with id para</button>
+
+    <br>
+    <br>
+
+    <div class="d1">
+        The 1987 FA Cup Final was an association football match between Coventry City and Tottenham Hotspur on 16 May
+        1987 at Wembley Stadium in London to determine the winner of the 1986–87 FA Cup. It was the third final for
+        Tottenham Hotspur in seven years and Coventry's first domestic cup final. Both clubs recorded songs to
+        commemorate reaching the final. With the game tied 2–2 at full time, the match went into extra time. The only
+        goal of extra time was scored in its first period when a cross from Lloyd McGrath looped off Gary Mabbutt's left
+        knee for an own goal, making the final score 3–2 to Coventry. The match is regarded by many as one of the
+        greatest finals in the history of the competition, with BBC TV commentator John Motson calling it "the finest
+        Cup Final I've had the pleasure of commentating on". The 1987 FA Cup remains Coventry's only major tournament
+        victory.
+    </div>
+    <div class="d1">Mohamed bin Zayed Al Nahyan (pictured) inherits the Emirate of Abu Dhabi and becomes President of
+        the United Arab Emirates after the death of Khalifa bin Zayed Al Nahyan.
+        Sagittarius A*, the supermassive black hole at the centre of the Milky Way galaxy, is imaged by the Event
+        Horizon Telescope.
+        The 2021 Southeast Asian Games open in Hanoi, Vietnam.
+        Bongbong Marcos is elected as President of the Philippines alongside his vice-presidential running mate, Sara
+        Duterte.</div>
+
+</body>
+
+</html>
