@@ -90,7 +90,7 @@ In the "Repository" you will find the topics and its problems.
 |10|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [C++](./C++/36_Palindrome.cpp)
 |11|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
 |12|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
-|13|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)
+|13|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [C++](./C++/13_GCD.cpp)
 |14|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
 |15|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
 |16|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
