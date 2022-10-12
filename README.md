@@ -232,7 +232,7 @@ In the "Repository" you will find the topics and its problems.
 |07|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G)
 |08|[Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H)
 |09|[Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I)
-|10|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J)
+|10|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J) | [C++](./C++/10_Factorial.cpp)
 |11|[Max Number](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K)
 |12|[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L)
 |13|[Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M)
