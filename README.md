@@ -68,8 +68,8 @@ In the "Repository" you will find the topics and its problems.
 | 19  | [Interval](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S)                       | [C++](./C++/19_Interval.cpp)                  |
 | 20  | [Sort Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T)                   | [C++](./C++/20_Sort_Numbers.cpp)              |
 | 21  | [Float or int](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U)                   | [C++](./C++/21_Float_or_Int.cpp)              |
-| 22  | [ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)                    |
-| 23  | [Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)        |
+| 22  | [ Comparison](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V)                    | [C++](./C++/22_Comparision.cpp)
+| 23  | [Mathematical Expression](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W)        | [C++](./C++/23_Mathematical_Expression.cpp)
 | 24  | [Two intervals](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X)                  | [C++](./C++/24_TwoIntervals.cpp)              |
 | 25  | [The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y)              | [C++](./C++/#25_TheLast2Digit.cpp)            |
 | 26  | [ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)                  |
