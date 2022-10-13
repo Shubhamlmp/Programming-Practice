@@ -131,10 +131,10 @@ In the "Repository" you will find the topics and its problems.
 |19|[Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S)
 |20|[Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T)
 |21|[Is B a subsequence of A ?](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U)
-|22|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V)
-|23|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W)
-|24|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)
-|25|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y)
+|22|[Frequency Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) | [C++](./C++/freq.cpp)
+|23|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) | [C++](./C++/mirror.cpp)
+|24|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)| [C++](./C++/neighbours.cpp)
+|25|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [C++](./C++/rangeSumQuery.cpp)
 |26|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
 
 ## Strings
