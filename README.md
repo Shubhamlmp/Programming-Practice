@@ -91,7 +91,7 @@ In the "Repository" you will find the topics and its problems.
 |11|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
 |12|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
 |13|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [C++](./C++/13_GCD.cpp)
-|14|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
+|14|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) [C++](./C++/14_Lucky%20Number.cpp)
 |15|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
 |16|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
 |17|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [C++](./C++/43_Shape1.cpp)
@@ -106,7 +106,7 @@ In the "Repository" you will find the topics and its problems.
 |26|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
 |27|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
 
-## Arrays
+## Arrays  
 
 | # | Title | Solution |
 |---| ----- | -------- |
