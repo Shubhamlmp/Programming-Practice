@@ -145,7 +145,7 @@ In the "Repository" you will find the topics and its problems.
 |02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       |
 |03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 |
 |04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 |
-|05| [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   |
+|05| [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   |[C++](https://github.com/Mulayam13986/personal-resources/blob/main/5_count.cpp)
 |06| [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      |[C++](https://github.com/Mulayam13986/personal-resources/blob/main/6_wayTooLongWords.cpp)
 |07| [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              |
 |08| [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             |
