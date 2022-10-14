@@ -75,37 +75,6 @@ In the "Repository" you will find the topics and its problems.
 | 26  | [ Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z)                  |
 
 ## Loops
-| # | Title | Solution |
-|---| ----- | -------- |
-|27|[The last 2 digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [C++](./C++/27_The_last_2_digits.cpp)
-|28|[1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) |[C++](./C++/28_1_to_N.cpp)
-|29|[Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) |[C++](./C++/29_Even_Numbers.cpp)
-|30|[Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) |[C++](./C++/30_Even,Odd,Positive_and_Negative.cpp)
-|31|[Fixed Password](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) |[C++](./C++/31_Fixed_Password.cpp)
-|32|[Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) |[C++](./C++/32_max.cpp)
-|33|[Multiplication table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [C++](./C++/33_Multiplication_Table.cpp)
-|34|[Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G)  | [C++](./C++/34_Factorial.cpp)
-|35|[One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [C++](./C++/35_One_Prime.cpp)
-|36|[palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [C++](./C++/36_Palindrome.cpp)
-|37|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
-|38|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
-|39|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L)
-|40|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) [C++](lucky Number.cpp)
-|41|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
-|42|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
-|43|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P)
-|44|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
-|45|[Sequence of Numbers and Sum](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R)
-|46|[Sum of Consecutive Odd Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S)
-|47|[Shape2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [C++](./C++/47_Shape2.cpp)
-|48|[Some Sums](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [C++](./C++/48_SomeSums.cpp)
-|49|[PUM](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [C++](./C++/49_PUM.cpp)
-|50|[Shape3](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [C++](./C++/50_Shape3.cpp)
-|51|[Convert To Decimal 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X)  | [C++](./C++/51_decimal.cpp)
-|52|[Easy Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y)  | [C++](./C++/52_fibonacci.cpp)
-|53|[Three Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [C++](./C++/53_threenumbers.cpp)
-
-## Arrays
 
 | # | Title | Solution |
 |---| ----- | -------- |
