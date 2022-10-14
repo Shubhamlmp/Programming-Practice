@@ -91,8 +91,8 @@ In the "Repository" you will find the topics and its problems.
 |11|[Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [C++](./C++/37_Primes_from_1to_n.cpp)
 |12|[Divisors](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [C++](./C++/38_Divisors.cpp)
 |13|[GCD](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [C++](./C++/13_GCD.cpp)
-|14|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M)
-|15|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N)
+|14|[Lucky Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [C++](./C++/14_Lucky_Numbers.cpp)
+|15|[Numbers Histogram](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [C++](./C++/15_Numbers_Histogram.cpp)
 |16|[Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [C++](./C++/42_Pyramid.cpp)
 |17|[Shape1](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [C++](./C++/43_Shape1.cpp)
 |18|[Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)  | [C++](./C++/44_Digits.cpp)
@@ -135,7 +135,7 @@ In the "Repository" you will find the topics and its problems.
 |23|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) | [C++](./C++/mirror.cpp)
 |24|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)| [C++](./C++/neighbours.cpp)
 |25|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [C++](./C++/rangeSumQuery.cpp)
-|26|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+|26|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z) | [C++](./C++/26_Binary_Search.cpp)
 
 ## Strings
 
