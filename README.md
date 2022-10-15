@@ -135,7 +135,7 @@ In the "Repository" you will find the topics and its problems.
 |23|[Mirror Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) | [C++](./C++/mirror.cpp)
 |24|[8 Neighbors](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X)| [C++](./C++/neighbours.cpp)
 |25|[Range sum query](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [C++](./C++/rangeSumQuery.cpp)
-|26|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z)
+|26|[Binary Search](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z) | [Python](./Python/binary_search.py)
 
 ## Strings
 
