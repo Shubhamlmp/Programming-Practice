@@ -122,7 +122,7 @@ In the "Repository" you will find the topics and its problems.
 |10|[Lucky Array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J)
 |11|[Sum2](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) | [C++](./C++/sumdigit.cpp)
 |12|[Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L)
-|13|[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)
+|13|[Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) | [C++](./C++/MinMax.cpp)
 |14|[Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)
 |15|[Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) | [C++](./C++/59_fibonacci.cpp)
 |16|[Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)
