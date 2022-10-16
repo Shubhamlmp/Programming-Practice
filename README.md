@@ -141,7 +141,7 @@ In the "Repository" you will find the topics and its problems.
 
 | #| Title                                                                                       | Solution |
 |--| ------------------------------------------------------------------------------------------- | -------- |
-|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     |
+|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     |[C++](./C++/NewString.cpp)
 |02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       |
 |03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 |
 |04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 |
