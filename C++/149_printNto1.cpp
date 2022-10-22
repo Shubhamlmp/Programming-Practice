@@ -1,21 +1,14 @@
 #include<iostream>
 using namespace std;
-//making print function 
-//using tail recursion in the function (i.e base case , processing,recursive relation)
-void print(int n){
-    //base case
-    if(n==0){
-        return ;
+int main(){
+
+    int n;                                 // tooked an user input
+    cin >> n ;
+    for(int i = n ; i >=2 ;--i ){          //run a loop from N to 2
+    cout << i << " ";                      // print i
     }
-   
-    cout<<n<<endl;
-     //Recursive relation
-    print(n-1);
-}
-int  main(){
-    int n;
-    //taking input
-    cin>>n;
-    print(n);
+    cout << 1 ;                           // at last print 1 
     return 0;
 }
+
+// happy coding :)

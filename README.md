@@ -140,11 +140,12 @@ In the "Repository" you will find the topics and its problems.
 ## Strings
 
 | #| Title                                                                                       | Solution |
-|--| ------------------------------------------------------------------------------------------- | -------- |
-|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     | 
+|--| ------------------------------------------------------------------------------------------- | --------|
+|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     | [C++](./C++/01_CreateANewString.cpp)
 |02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       | [C++](./C++/getline.cpp)
 |03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 | [C++](./C++/compare.cpp)
 |04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 | [C++](./C++/string.cpp)
+
 |05| [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   |
 |06| [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      |
 |07| [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              |
