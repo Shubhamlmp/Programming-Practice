@@ -141,11 +141,11 @@ In the "Repository" you will find the topics and its problems.
 
 | #| Title                                                                                       | Solution |
 |--| ------------------------------------------------------------------------------------------- | -------- |
-|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     |
-|02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       |
-|03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 |
-|04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 |
-|05| [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   |
+|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     | 
+|02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       | [C++](./C++/getline.cpp)
+|03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 | [C++](./C++/compare.cpp)
+|04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 | [C++](./C++/strings.cpp)
+|05| [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   | [C++](./C++/count.cpp)
 |06| [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      |
 |07| [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              |
 |08| [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             |
