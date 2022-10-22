@@ -140,17 +140,17 @@ In the "Repository" you will find the topics and its problems.
 ## Strings
 
 | #| Title                                                                                       | Solution |
-|--| ------------------------------------------------------------------------------------------- | -------- |
-|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     |  [C++](./C++/01_CreateANewString.cpp)
-|02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       |
-|03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 |
-|04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 |
+|--| ------------------------------------------------------------------------------------------- | --------|
+|01| [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)     | [C++](./C++/01_CreateANewString.cpp)
+|02| [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)       | [C++](./C++/getline.cpp)
+|03| [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 | [C++](./C++/compare.cpp)
+|04| [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 | [C++](./C++/string.cpp)
 |05| [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   |
 |06| [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      |
 |07| [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              |
 |08| [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             |
 |09| [Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)              | [C++](./C++/88_palindrome.cpp)
-|10| [Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)           |
+|10| [Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)           | [C++](./C++/countletters.cpp)
 |11| [I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)          |
 |12| [String Functions](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/L)        |
 |13| [Subsequence String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/M)      |
