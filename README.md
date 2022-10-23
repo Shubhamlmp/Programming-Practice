@@ -148,7 +148,7 @@ In the "Repository" you will find the topics and its problems.
 | 05  | [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   | [C++](./C++/count_string.cpp)        |
 | 06  | [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      | [C++](./C++/wayTooLongWords.cpp)     |
 | 07  | [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              | [C++](./C++/conversion.cpp)          |
-| 08  | [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             |
+| 08  | [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             | [C++](./C++/goodOrBad.cpp)           |
 | 09  | [Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)              | [C++](./C++/88_palindrome.cpp)       |
 | 10  | [Count Letters](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J)           | [C++](./C++/countletters.cpp)        |
 | 11  | [I Love strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K)          |
