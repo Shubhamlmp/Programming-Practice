@@ -1,5 +1,6 @@
 // To find the largest and smallest number in an array.
-
+// max  - gives the maximum value from the array
+// min - gives the minimum value from the array.
 
 const arr = [10, 2, 3, 4, 50];
 const findMaxMin = (arr) => {
