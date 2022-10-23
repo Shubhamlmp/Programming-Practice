@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    font-size: 50px;
+    letter-spacing: 5px;
+    animation: glitch 0.4s infinite linear;
+  }
+  @keyframes glitch {
+    0% {
+      text-shadow: red -3px 0, cyan 2px 0;
+    }
+    50% {
+      text-shadow: cyan -3px 0, red 2px 0;
+    }
+    100% {
+      text-shadow: red -3px 0, cyan 2px 0;
+    }
+  }
+  
