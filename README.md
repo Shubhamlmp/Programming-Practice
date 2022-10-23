@@ -146,7 +146,7 @@ In the "Repository" you will find the topics and its problems.
 | 03  | [Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C)                 | [C++](./C++/compare.cpp)             |
 | 04  | [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)                 | [C++](./C++/string.cpp)              |
 | 05  | [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)                   | [C++](./C++/count_string.cpp)        |
-| 06  | [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      |
+| 06  | [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)      | [C++](./C++/wayTooLongWords.cpp)     |
 | 07  | [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)              |
 | 08  | [Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)             |
 | 09  | [Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)              | [C++](./C++/88_palindrome.cpp)       |
