@@ -1,3 +1,5 @@
+Snake Water Gun Game
+
 import random
 n=5
 i=0
