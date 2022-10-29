@@ -255,7 +255,7 @@ In the "Repository" you will find the topics and its problems.
 
 | #   | Title                                                                                                        | Solution |
 | --- | ------------------------------------------------------------------------------------------------------------ | -------- |
-| 01  | [Expression](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A)                               |
+| 01  | [Expression](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A)                               | [c++](./C++/Expression_PalindromeReplace.cpp)
 | 02  | [Watermelon](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B)                               |
 | 03  | [Beautiful Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/C)                         |
 | 04  | [Bear and Big Brother](https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/D)                     |
