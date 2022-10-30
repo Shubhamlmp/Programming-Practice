@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    // Invert Pyramid made from Asterisk
     int rows, i, j, space;
     cout << "Enter Number of Rows";
     cin >> rows;
