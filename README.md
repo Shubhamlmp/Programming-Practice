@@ -181,7 +181,7 @@ In the "Repository" you will find the topics and its problems.
 | 07  | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          | [C++](./C++/112_minAndMax.cpp) |
 | 08  | [N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)              |
 | 09  | [Swapping with matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I) |
-| 10  | [Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J)              |
+| 10  | [Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J)              | [Python](./Python/average.py) |
 | 11  | [Shift right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K)          |
 | 12  | [New Array](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)            |
 | 13  | [Distinct numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/M)     |
