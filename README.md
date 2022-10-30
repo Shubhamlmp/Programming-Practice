@@ -192,7 +192,7 @@ In the "Repository" you will find the topics and its problems.
 
 | #   | Title                                                                                           | Solution                 |
 | --- | ----------------------------------------------------------------------------------------------- | ------------------------ |
-| 01  | [Power Of Two](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A)                |
+| 01  | [Power Of Two](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A)                |  [Python](./Python/power_of_two.py)
 | 02  | [Prime checking](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B)              |
 | 03  | [Sum of Range](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C)                |
 | 04  | [Xor](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D)                         |
