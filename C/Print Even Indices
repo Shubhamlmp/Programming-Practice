@@ -1,0 +1,32 @@
+#include<stdio.h>
+
+int evenIndices(int i, int A[])
+{
+   if(i>=0){
+       printf("%d",A[i]);
+       printf(" ");
+       i=i-2;
+       return evenIndices(i,A);
+   }
+   else{
+       return 0;
+   }
+}
+
+int main()
+{
+   int N=0;
+   scanf("%d",&N);
+   int A[N];
+   int i=0;
+   for(i=0;i<N;i++){
+       scanf("%d",&A[i]);
+   }
+   if(N%2==0){
+       evenIndices((N-2),A);
+   }
+   else{
+       evenIndices((N-1),A);
+   }
+    return 0;
+}
