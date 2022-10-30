@@ -1,0 +1,63 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+
+
+void init_code()
+{
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    freopen("error.txt", "w", stderr);
+#endif
+
+}
+
+
+
+
+void SOLVE(int testcase)
+{
+    string s, t;
+    cin >> s >> t;
+    int n = s.size();
+    int m = t.size();
+    int i = n - 1;
+    int j = m - 1;
+    //Checking from the right of both the strings whenever they are not equal break out of the loo[
+    while (i >= 0 && j >= 0)
+    {
+        if (s[i] == t[j])
+        {
+            i--;
+            j--;
+        }
+        else
+        {
+            break;
+        }
+    }
+    cout << i + 1 + j + 1 << "\n";
+
+}
+
+
+signed main()
+{
+
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    init_code();
+
+    int testcase = 1;
+    // cin >> testcase;
+
+    for (int i = 1; i <= testcase; i++)
+    {
+        SOLVE(i);
+    }
+
+    YK out;
+
+}
