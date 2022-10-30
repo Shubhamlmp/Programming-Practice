@@ -172,7 +172,7 @@ In the "Repository" you will find the topics and its problems.
 
 | #   | Title                                                                                    | Solution                       |
 | --- | ---------------------------------------------------------------------------------------- | ------------------------------ |
-| 01  | [Add](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A)                  |
+| 01  | [Add](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/A)                  | [Python](./Python/add.py) | 
 | 02  | [PRINT](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)                |
 | 03  | [Different functions](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)  |
 | 04  | [prime function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)       |
