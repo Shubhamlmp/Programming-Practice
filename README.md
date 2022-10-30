@@ -237,10 +237,10 @@ In the "Repository" you will find the topics and its problems.
 | 12  | [Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L)                    |
 | 13  | [Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M)                   |
 | 14  | [Sum of a Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N)              |
-| 15  | [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)                    |
+| 15  | [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)                    | [Python](./Python/fibo.py)
 | 16  | [Log2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P)                         |
 | 17  | [3n + 1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q)              |
-| 18  | [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)             |
+| 18  | [Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R)             |  [Python](./Python/palindrome_array.py)
 | 19  | [Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S)                |
 | 20  | [Combination](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/T)                  |
 | 21  | [Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U)                     |
