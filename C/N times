@@ -1,0 +1,28 @@
+#include<stdio.h>
+
+void nTimes(int T)
+{
+    int n[T];
+    char C[T];
+    int i=0;
+    
+    for(i=0;i<T;i++){
+        scanf("%d",&n[i]);
+        scanf("%s",&C[i]);
+    }
+    for(int i=0;i<T;i++){
+        for(int j=0;j<n[i];j++){
+        printf("%c",C[i]);
+        }
+        printf("\n");
+    }
+}
+
+int main()
+{
+    int T=0;
+    scanf("%d",&T);
+    
+    nTimes(T);
+    return 0;
+}
