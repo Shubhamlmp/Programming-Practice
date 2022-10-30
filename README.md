@@ -126,7 +126,7 @@ In the "Repository" you will find the topics and its problems.
 | 14  | [Check Code](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N)                | [C++](./C++/Checkcode.cpp)             |
 | 15  | [Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O)                 | [C++](./C++/59_fibonacci.cpp)          |
 | 16  | [Minimize Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P)           | [C++](./C++/minimize.cpp)              |
-| 17  | [Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q)           |
+| 17  | [Count Subarrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q)           | [C++](./C++/count_subarrays.cpp)       |
 | 18  | [Permutation with arrays](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R)   | [C++](./C++/permutation.cpp)           |
 | 19  | [Search In Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S)          | [C++](./C++/searchinmatrix.cpp)        |
 | 20  | [Matrix](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T)                    | [C++](./C++/matrix.cpp)                |
@@ -179,7 +179,7 @@ In the "Repository" you will find the topics and its problems.
 | 05  | [Swap](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E)                 |
 | 06  | [Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F)             |
 | 07  | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          | [C++](./C++/112_minAndMax.cpp) |
-| 08  | [N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)              |
+| 08  | [N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)              | [C++](./C++/n_times.cpp) |
 | 09  | [Swapping with matrix](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/I) |
 | 10  | [Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J)              | [Python](./Python/average.py) |
 | 11  | [Shift right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K)          |
@@ -195,7 +195,7 @@ In the "Repository" you will find the topics and its problems.
 | 01  | [Power Of Two](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/A)                |  [Python](./Python/power_of_two.py)
 | 02  | [Prime checking](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B)              |
 | 03  | [Sum of Range](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/C)                |
-| 04  | [Xor](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D)                         |
+| 04  | [Xor](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D)                         |  [C++](./C++/xor.cpp) |
 | 05  | [Maximum Distinct Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/E)    |
 | 06  | [Multiplication of Matrices](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/F)  |
 | 07  | [Summation of its divisors](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/G)   |
