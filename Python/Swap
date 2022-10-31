@@ -1,0 +1,11 @@
+'Accepting numbers in single line'
+print("Enter numbers:")
+x, y = map(int, input().split())
+
+'Swapping numbers'
+x = x*y
+y = x//y
+x = x//y
+
+'Printing swapped values'
+print(x,y)
