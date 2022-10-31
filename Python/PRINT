@@ -1,0 +1,7 @@
+'Accepting number'
+x = int(input("Enter a number:"))
+
+'Printing numbers'
+n = x+1
+for i in range(1, n):
+    print(i, end=" ")
