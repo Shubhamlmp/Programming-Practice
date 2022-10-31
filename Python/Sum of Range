@@ -1,0 +1,39 @@
+'Accepting numbers'
+x, y = map(int, input().split())
+
+'Summation of all numbers between A and B (inclusive).'
+sum1 = 0
+if x>y:
+    for i in range(y, x+1):
+        sum1 = sum1 + i
+    print(sum1)
+else:
+    for i in range(x, y+1):
+        sum1 = sum1 + i
+    print(sum1)
+
+'Summation of even numbers between A and B (inclusive).'
+sum2 = 0
+if x>y:
+    for i in range(y, x+1):
+        if (i%2==0):
+            sum2 = sum2 + i
+    print(sum2)
+else:
+    for i in range(y, x+1):
+        if (i%2==0):
+            sum2 = sum2 + i
+    print(sum2)
+    
+'Summation of odd numbers between A and B (inclusive).'
+sum3 = 0
+if x>y:
+    for i in range(y, x+1):
+        if (i%2!=0):
+            sum3 = sum3 + i
+    print(sum3)
+else:
+    for i in range(y, x+1):
+        if (i%2!=0):
+            sum3 = sum3 + i
+    print(sum3)
