@@ -176,7 +176,7 @@ In the "Repository" you will find the topics and its problems.
 | 02  | [PRINT](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)                |
 | 03  | [Different functions](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)  |
 | 04  | [prime function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D)       |
-| 05  | [Swap](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E)                 |
+| 05  | [Swap](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/E)                 | [C++](./C++/05_Swap.cpp) |
 | 06  | [Equation](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/F)             |
 | 07  | [Max and MIN](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G)          | [C++](./C++/112_minAndMax.cpp) |
 | 08  | [N times](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/H)              | [C++](./C++/n_times.cpp) |
