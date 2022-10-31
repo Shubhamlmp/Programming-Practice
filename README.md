@@ -184,7 +184,7 @@ In the "Repository" you will find the topics and its problems.
 | 10  | [Average](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/J)              | [Python](./Python/average.py) |
 | 11  | [Shift right](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/K)          |
 | 12  | [New Array](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/L)            |
-| 13  | [Distinct numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/M)     |
+| 13  | [Distinct numbers](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/M)     | [C++](./C++/13_Distinct_Numbers.cpp) |
 | 14  | [Shift zeros](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/N)          |
 | 15  | [Five in One](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O)          |
 
