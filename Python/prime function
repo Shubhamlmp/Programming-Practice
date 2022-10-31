@@ -1,0 +1,26 @@
+'Accepting number of test cases'
+number_list = []
+t = int(input("Enter number of text cases:"))
+
+'Accepting terms of list'
+for i in range(0, t):
+    item = int(input())
+    number_list.append(item)
+
+'Function to check if numbers are prime'
+def Prime_function():
+    for k in range(0,t):
+        num = int(number_list[k])
+        if num > 1:
+            for i in range(2,int(num/2)+1):
+                if (num % i) == 0:
+                    print("NO")
+                    break
+                else:
+                    print("YES")
+                    break
+        # If the number is less than 1, its also not a prime number.
+        else:
+            print("NO")
+
+Prime_function()
